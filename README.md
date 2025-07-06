@@ -21,6 +21,6 @@
 ##  Created By
 
 **Megha**  
-Certified Ethical Hacker | Cybersecurity Enthusiast
+Cybersecurity Enthusiast
 
 
